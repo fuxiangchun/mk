@@ -1,0 +1,426 @@
+#order {
+  width: 942px;
+  height: 1331px;
+  background: white;
+  padding: 20px 30px;
+  margin: 0 auto;
+}
+#order h2 {
+  font-size: 18px;
+  color: #333333;
+  height: 36px;
+  line-height: 36px;
+}
+#order p {
+  background: url("../img/or.gif");
+  width: 925px;
+  margin: 0 auto;
+  height: 22px;
+}
+#order #order-3 {
+  width: 942px;
+  height: 386px;
+  background: #FFFFFF;
+  margin-bottom: 20px;
+  background: white;
+}
+#order #order-3 h3 {
+  font-size: 15px;
+  margin-bottom: 8px;
+  color: #888;
+  height: 30px;
+  line-height: 30px;
+}
+
+#dizhi {
+  width: 910px;
+  height: 316px;
+  padding: 15px;
+  margin: 0 auto;
+  border: 1px solid #EEEEEE;
+}
+#dizhi form {
+  width: 910px;
+  height: 296px;
+  margin: 10px 0;
+  color: #888;
+}
+#dizhi form label {
+  font-size: 12px;
+  height: 16px;
+  width: 200px;
+}
+#dizhi form label input {
+  line-height: 16px;
+  margin-right: 5px;
+}
+#dizhi form div {
+  width: 910px;
+  height: 255px;
+}
+#dizhi form div dl {
+  margin: 10px 0 12px 36px;
+}
+#dizhi form div dl em {
+  color: #f00;
+  margin-right: 5px;
+  font-size: 13px;
+}
+#dizhi form div dl:nth-child(1) {
+  line-height: 30px;
+  color: #888888;
+  width: 874px;
+  height: 31px;
+}
+#dizhi form div dl:nth-child(1) dt {
+  text-align: right;
+  width: 90px;
+  color: #666;
+  line-height: 25px;
+  float: left;
+  display: inline;
+  font-size: 13px;
+}
+#dizhi form div dl:nth-child(1) dd {
+  float: left;
+  display: inline;
+  font-size: 13px;
+}
+#dizhi form div dl:nth-child(1) dd input {
+  border: 1px solid #ddd;
+  height: 30px;
+  padding-left: 10px;
+}
+#dizhi form div dl:nth-child(2) {
+  line-height: 30px;
+  height: 30px;
+}
+#dizhi form div dl:nth-child(2) dt {
+  text-align: right;
+  width: 90px;
+  color: #666;
+  line-height: 25px;
+  float: left;
+  display: inline;
+  font-size: 13px;
+}
+#dizhi form div dl:nth-child(2) .di-1 select {
+  font-weight: normal;
+  display: block;
+  white-space: pre;
+  min-height: 20px;
+  padding: 0 2px 1px;
+  width: 130px;
+  height: 28px;
+  float: left;
+}
+#dizhi form div dl:nth-child(2) .di-2 select {
+  height: 30px;
+  line-height: 30px;
+  border: 1px solid #ddd;
+  margin-right: 15px;
+  width: 80px;
+  float: left;
+  margin-left: 20px;
+}
+
+.di-3 {
+  height: 40px;
+}
+.di-3 dt {
+  text-align: right;
+  width: 90px;
+  color: #666;
+  line-height: 40px;
+  float: left;
+  display: inline;
+  font-size: 13px;
+}
+.di-3 dd {
+  width: 425px;
+  height: 40px;
+  line-height: 40px;
+  float: left;
+}
+.di-3 dd textarea {
+  width: 425px;
+  height: 38px;
+  line-height: 38px;
+  padding-left: 10px;
+}
+
+.di-4 {
+  width: 100%;
+  height: 30px;
+  line-height: 30px;
+}
+.di-4 dt {
+  float: left;
+}
+.di-4 dd {
+  float: left;
+  display: inline;
+  font-size: 13px;
+}
+.di-4 dd input {
+  width: 88px;
+  height: 26px;
+  border: 1px solid #ddd;
+  height: 30px;
+  padding-left: 10px;
+}
+
+.di-5 {
+  width: 100%;
+  height: 30px;
+  line-height: 30px;
+  margin: 0 0 15px 33px;
+}
+.di-5 dt {
+  float: left;
+}
+.di-5 #shou5 {
+  float: left;
+  display: inline;
+  font-size: 13px;
+}
+.di-5 #shou5 input {
+  width: 182px;
+  height: 26px;
+  border: 1px solid #ddd;
+  height: 30px;
+  padding-left: 10px;
+}
+.di-5 #shou6 {
+  width: 90px;
+  height: 25px;
+  float: left;
+  margin-left: 20px;
+}
+.di-5 #shou6 span {
+  display: block;
+  text-align: right;
+  width: 90px;
+  color: #666;
+  line-height: 25px;
+  font-size: 12px;
+  float: left;
+  margin-top: 5px;
+}
+.di-5 #shou6 label {
+  width: 500px;
+  height: 30px;
+  float: left;
+  margin-left: 100px;
+  margin-top: -30px;
+}
+.di-5 #shou6 .i-1 {
+  margin: 0 5px 0 0;
+  vertical-align: -1px;
+  padding-left: 10px;
+  border: 1px solid #ddd;
+  width: 65px;
+  height: 30px;
+}
+.di-5 #shou6 .i-2 {
+  margin: 0 5px 0 0;
+  vertical-align: -1px;
+  padding-left: 10px;
+  border: 1px solid #ddd;
+  width: 112px;
+  height: 30px;
+}
+.di-5 #shou6 .i-3 {
+  margin: 0 5px 0 0;
+  vertical-align: -1px;
+  padding-left: 10px;
+  border: 1px solid #ddd;
+  width: 112px;
+  height: 30px;
+}
+
+#bao {
+  margin-left: 126px;
+  margin-top: 20px;
+  display: block;
+  width: 120px;
+  font-size: 16px;
+  text-align: center;
+  height: 30px;
+  background: #db085a;
+  border-radius: 5px;
+  color: #fff;
+  line-height: 30px;
+}
+
+#order-1 {
+  width: 910px;
+  height: 130px;
+  margin-bottom: 20px;
+  padding: 20px;
+}
+#order-1 div {
+  width: 910px;
+  height: 60px;
+  border: 1px solid #eee;
+  padding: 15px;
+}
+#order-1 div span {
+  font-size: 12px;
+  margin-top: 20px;
+}
+#order-1 div select {
+  width: 132px;
+  height: 30px;
+  line-height: 30px;
+  border: 1px solid #ddd;
+  margin-right: 15px;
+  margin-top: 18px;
+}
+
+#order-2 {
+  width: 942px;
+  height: 295px;
+  margin-bottom: 20px;
+}
+#order-2 h3 {
+  width: 942px;
+  height: 30px;
+  line-height: 30px;
+  font-size: 15px;
+  margin-bottom: 8px;
+  color: #888;
+}
+#order-2 div {
+  width: 910px;
+  height: 225px;
+  border: 1px solid #EEEEEE;
+  padding: 15px;
+}
+#order-2 div h4 {
+  font-size: 15px;
+  margin-bottom: 8px;
+  width: 100%;
+  height: 30px;
+  line-height: 30px;
+  color: #888;
+}
+#order-2 div ul {
+  width: 100%;
+  height: 160px;
+}
+#order-2 div ul li {
+  width: 94px;
+  height: 32px;
+  margin-left: 60px;
+  margin-top: 6px;
+  float: left;
+  background: url(../img/yinghang.png) no-repeat;
+}
+
+#order-4 {
+  width: 942px;
+  height: 382px;
+  margin-bottom: 20px;
+}
+#order-4 h3 {
+  width: 942px;
+  height: 30px;
+  font-size: 15px;
+  margin-bottom: 8px;
+  color: #888;
+}
+#order-4 .qing-1 {
+  width: 910px;
+  height: 132px;
+  border: 1px solid #eee;
+  padding: 15px;
+}
+#order-4 .qing-1 .qing-2 {
+  width: 329px;
+  height: 131px;
+  overflow: hidden;
+  float: left;
+}
+#order-4 .qing-1 .qing-2 a {
+  width: 68px;
+  height: 89px;
+  display: block;
+  float: left;
+  margin: 0 10px 20px 0;
+  padding: 0 10px;
+  background: #fff;
+  border: 1px solid #ddd;
+  overflow: hidden;
+  margin-left: 40px;
+  margin-top: 20px;
+}
+#order-4 .qing-1 .qing-2 a img {
+  width: 100%;
+  height: 100%;
+}
+#order-4 .qing-1 .qing-2 p {
+  width: 150px;
+  height: 18px;
+  display: block;
+  font-size: 12px;
+  text-align: left;
+  margin-left: 140px;
+  margin-top: 20px;
+}
+#order-4 .qing-1 .qing-2 span {
+  font-size: 12px;
+  color: #888;
+  margin-top: 10px;
+}
+#order-4 .qing-1 .qing-3 {
+  width: 251px;
+  height: 131px;
+  float: left;
+  text-align: center;
+  line-height: 131px;
+}
+#order-4 .qing-1 .qing-4 {
+  width: 57px;
+  height: 131px;
+  float: left;
+  text-align: center;
+  line-height: 131px;
+  color: red;
+}
+#order-4 .qing-6 {
+  text-align: right;
+  font-size: 14px;
+  color: #888;
+  margin-top: 20px;
+}
+#order-4 .qing-5 {
+  position: relative;
+}
+#order-4 .qing-5 p {
+  width: 200px;
+  height: 21px;
+  line-height: 21px;
+  font-size: 14px;
+  color: #888;
+  margin-left: 550px;
+  margin-top: 30px;
+}
+#order-4 .qing-5 p span {
+  color: red;
+}
+#order-4 .qing-5 a {
+  position: absolute;
+  display: block;
+  width: 64px;
+  height: 21px;
+  margin-left: 10px;
+  padding: 10px 20px;
+  background: #EC266D;
+  color: white;
+  text-align: center;
+  line-height: 21px;
+  border-radius: 5px;
+  right: 80px;
+  top: -10px;
+}

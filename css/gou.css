@@ -1,0 +1,270 @@
+#Cart {
+	width: 942px;
+	min-height: 98px;
+	margin: 0 auto;
+	padding: 20px 30px;
+	margin-bottom: 20px;
+	background: white;
+}
+
+.gouw {
+	width: 100%;
+	min-height: 22px;
+	line-height: 22px;
+}
+
+.gouw p {
+	display: block;
+	width: 28px;
+	height: 22px;
+	font-size: 16px;
+	background: url(../img/heder.png) no-repeat;
+	background-position: 2px -45px;
+	color: #888;
+	float: left;
+}
+
+.gouw span {
+	margin-left: 10px;
+	font-weight: 900;
+}
+
+.table {
+	width: 940px;
+	min-height: 35px;
+	margin: 10px 0 0;
+	font-size: 12px;
+	border: 1px solid #eee;
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+#table-1 {
+	width: 945px;
+	height: 35px;
+	vertical-align: middle;
+	border-color: inherit;
+	text-rendering: auto;
+	background: #FAFAFA;
+	vertical-align: -3px;
+}
+
+.table-1-2 div {
+	width: 471px;
+	height: 34px;
+	line-height: 34px;
+	text-align: center;
+	font-weight: 400;
+	color: #000;
+}
+
+.table-1-2 h2 {
+	margin: 0 5px 0 2px;
+	color: #333333;
+	font-size: 14px;
+}
+
+.table-1-1 {
+	width: 4%;
+	text-align: center;
+}
+
+.table-1-3,
+.table-1-4,
+.table-1-5,
+.table-1-6 {
+	height: 34px;
+	padding: 0;
+	text-align: center;
+	font-weight: 400;
+	border-bottom: 1px solid #eee;
+	background: #fafafa;
+	color: #000;
+	width: 12%;
+}
+
+#table-2 {
+	width: 941px;
+	min-height: 1px;
+	vertical-align: middle;
+	border-color: inherit;
+	text-rendering: auto;
+	background: #FAFAFA;
+	border-collapse: collapse;
+	color: #888;
+	font-size: 12px;
+}
+
+#table-2 tr {
+	background: #fffdeb;
+	border-collapse: collapse;
+	border-bottom: 1px dotted #ddd;
+}
+
+#table-2 tr td {
+	display: table-cell;
+	vertical-align: inherit;
+}
+
+.table-2-1 {
+	width: 4%;
+	text-align: center;
+}
+
+.table-2-2 {
+	vertical-align: top;
+}
+
+.table-2-2 div {
+	width: 471px;
+	height: 131px;
+	text-align: left;
+}
+
+.table-2-2 div a:nth-child(1) {
+	display: block;
+	float: left;
+	width: 70px;
+	height: 91px;
+	margin: 10px 10px 0px 40px;
+	padding: 0 10px;
+	background: #fff;
+	border: 1px solid #ddd;
+	overflow: hidden;
+}
+
+.table-2-2 div a:nth-child(1) img {
+	width: 100%;
+	height: 100%;
+}
+
+.table-2-2 div a:nth-child(2) {
+	display: block;
+	padding-top: 10px;
+	color: #ed145b;
+	display: block;
+}
+
+.table-2-2 div p {
+	margin-top: 10px;
+}
+
+.table-2-3 div {
+	width: 71px;
+	height: 18px;
+	padding: 20px;
+	text-align: center;
+}
+
+.table-2-4 div {
+	width: 100px;
+	height: 25px;
+	padding: 20px;
+	text-align: center;
+}
+
+.table-2-4 div span {
+	width: 25px;
+	height: 25px;
+	line-height: 25px;
+	text-align: center;
+	display: block;
+	float: left;
+	border: #e0e0e0 1px solid;
+}
+
+.table-2-4 div input {
+	width: 35px;
+	height: 25px;
+	border: 0;
+	border-top: 1px solid;
+	border-bottom: 1px solid;
+	border-color: #e0e0e0;
+	float: left;
+	text-align: center;
+	vertical-align: -3px;
+}
+
+.table-2-5 p {
+	width: 92px;
+	height: 18px;
+	text-align: center;
+}
+
+.table-2-6 p {
+	width: 52px;
+	height: 18px;
+	padding: 20px;
+	text-align: center;
+}
+
+#Cart-footer {
+	width: 940px;
+	height: 88px;
+	background: #fafafa;
+	margin: 20px 0;
+	line-height: 48px;
+}
+
+#Cart-footer div {
+	width: 490px;
+	height: 100%;
+	float: right;
+	font-size: 14px;
+}
+
+#Cart-footer div #q {
+	width: 280px;
+	height: 48px;
+	float: left;
+	margin-top: 10px;
+}
+
+#Cart-footer div #q p {
+	float: right;
+	line-height: 20px;
+	width: 280px;
+	height: 20px;
+}
+
+#Cart-footer div #t {
+	font-size: 18px;
+	color: #ed145b;
+	font-weight: 900;
+}
+
+#Cart-footer div a {
+	width: 142px;
+	height: 48px;
+	margin: 0 0 0 10px;
+	font-size: 18px;
+	display: inline-block;
+	color: #fff;
+	text-align: center;
+	border-radius: 3px;
+	text-decoration: none;
+	background: #db085a;
+}
+
+#qq {
+	width: 41px;
+	height: 48px;
+	display: inline-block;
+	margin: 0 0 0 15px;
+	line-height: 48px;
+	font-size: 12px;
+	float: left;
+	margin-right: 20px;
+}
+
+#qq input {
+	vertical-align: -3px;
+	margin-right: 4px;
+}
+
+#qing {
+	margin: 0 2px;
+	color: #333;
+	float: left;
+	font-size: 12px;
+}
