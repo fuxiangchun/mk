@@ -1,0 +1,94 @@
+.zi{
+    width: 1263px;
+    height: 4800px;
+    div:nth-child(1){
+        width: 1263px;
+        height: 480px;
+        background: url(../img/zi-1.jpg) center center no-repeat;
+    }
+    div:nth-child(2){
+        width: 1263px;
+        height: 480px;
+        background: url(../img/zi-2.jpg) center center no-repeat;
+    } 
+    div:nth-child(3){
+        width: 1263px;
+        height: 480px;
+        background: url(../img/zi-3.jpg) center center no-repeat;
+    } 
+    div:nth-child(4){
+        width: 1263px;
+        height: 480px;
+        background: url(../img/zi-4.jpg) center center no-repeat;
+    } 
+    div:nth-child(5){
+        width: 1263px;
+        height: 480px;
+        background: url(../img/zi-5.jpg) center center no-repeat;
+    } 
+    div:nth-child(6){
+        width: 1263px;
+        height: 480px;
+        background: url(../img/zi-6.jpg) center center no-repeat;
+    } 
+    div:nth-child(7){
+        width: 1263px;
+        height: 480px;
+        background: url(../img/zi-7.jpg) center center no-repeat;
+    } 
+    div:nth-child(8){
+        width: 1263px;
+        height: 480px;
+        background: url(../img/zi-8.jpg) center center no-repeat;
+    } 
+    div:nth-child(9){
+        width: 1263px;
+        height: 480px;
+        background: url(../img/zi-9.jpg) center center no-repeat;
+    } 
+    div:nth-child(10){
+        width: 1263px;
+        height: 480px;
+        background: url(../img/zi-10.jpg) center center no-repeat;
+    }
+    div:nth-child(11){
+        width: 1263px;
+        height: 130px;
+        background: #000000;
+        position: absolute;
+        top: 480px;
+        ul{
+            width: 1002px;
+            margin: 0 auto;
+            li{
+                height: 130px;
+                width: 110px;
+                background: red;
+                float: left;
+                line-height: 100px;
+                margin-right: 175px;
+                font-size: 14px;
+                text-align: center;
+                
+            }
+            li:nth-child(1){
+                background: url(../img/zi-11.jpg) no-repeat;
+                background-position: 1px 15px;
+            }
+            
+            li:nth-child(2){
+                background: url(../img/zi-11.jpg) no-repeat;
+                background-position: -160px -186px; 
+            }
+            li:nth-child(3){
+                background: url(../img/zi-11.jpg) no-repeat;
+                background-position: -306px -186px; 
+            }
+            li:nth-child(4){
+                background: url(../img/zi-11.jpg) no-repeat;
+                background-position: -584px -185px; 
+                margin-right: 0;
+            }
+        }
+    }   
+}
